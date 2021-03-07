@@ -6,7 +6,7 @@ self.addEventListener('install', (e) => {
       '/pwa-examples/a2hs/index.js',
       '/pwa-examples/a2hs/style.css',
       '/pwa-examples/a2hs/images/diablo-squad.png',
-      '/pwa-examples/a2hs/images/diablosquad.jpg',
+      '/pwa-examples/a2hs/images/diablosquad.jpg'
     ])),
   );
 });
